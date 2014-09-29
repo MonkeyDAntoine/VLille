@@ -4,9 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/VLille.iml" filepath="$PROJECT_DIR$/VLille.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/serverProxy/serverProxy.iml" filepath="$PROJECT_DIR$/serverProxy/serverProxy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/subsonicFragmentActivity/subsonicFragmentActivity.iml" filepath="$PROJECT_DIR$/subsonicFragmentActivity/subsonicFragmentActivity.iml" />
     </modules>
   </component>
 </project>
