@@ -1,0 +1,450 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+ * Project
+   SubsonicFragmentActivity:Z:\Dev\Java\workspace\android\Subsonic\.classpath:
+   Could not resolve source path /Launcher in project SubsonicFragmentActivity:
+   ignored. The project may not compile if the given source path provided source
+   code.
+
+ * Project
+   SubsonicFragmentActivity:Z:\Dev\Java\workspace\android\Subsonic\.classpath:
+   Could not resolve source path /library in project SubsonicFragmentActivity:
+   ignored. The project may not compile if the given source path provided source
+   code.
+
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From ServerProxy:
+* .git
+* .gitignore
+* README.md
+* ServerProxy.iml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+From SubsonicFragmentActivity:
+* .gitignore
+* .gitmodules
+* DSub Featured.png
+* DSub.png
+* DragSortListView\
+* DragSortListView\.git
+* DragSortListView\.gitignore
+* DragSortListView\CHANGELOG.md
+* DragSortListView\README.md
+* DragSortListView\build.gradle
+* DragSortListView\demo\
+* DragSortListView\demo\.classpath
+* DragSortListView\demo\.gitignore
+* DragSortListView\demo\.project
+* DragSortListView\demo\.settings\
+* DragSortListView\demo\.settings\org.eclipse.jdt.core.prefs
+* DragSortListView\demo\AndroidManifest.xml
+* DragSortListView\demo\ant.properties
+* DragSortListView\demo\app-description.txt
+* DragSortListView\demo\bin\
+* DragSortListView\demo\bin\AndroidManifest.xml
+* DragSortListView\demo\bin\R.txt
+* DragSortListView\demo\bin\classes\
+* DragSortListView\demo\bin\classes\com\
+* DragSortListView\demo\bin\classes\com\mobeta\
+* DragSortListView\demo\bin\classes\com\mobeta\android\
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\ArbItemSizeDSLV$1.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\ArbItemSizeDSLV$2.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\ArbItemSizeDSLV$JazzAdapter.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\ArbItemSizeDSLV$JazzArtist.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\ArbItemSizeDSLV$ViewHolder.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\ArbItemSizeDSLV.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\BGHandle.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\BuildConfig.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\CheckableLinearLayout.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\CursorDSLV$MAdapter$1.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\CursorDSLV$MAdapter.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\CursorDSLV.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DSLVFragment$1.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DSLVFragment$2.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DSLVFragment.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DSLVFragmentBGHandle$MyAdapter.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DSLVFragmentBGHandle$MyDSController.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DSLVFragmentBGHandle.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DSLVFragmentClicks$1.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DSLVFragmentClicks$2.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DSLVFragmentClicks$3.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DSLVFragmentClicks.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DragInitModeDialog$1.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DragInitModeDialog$2.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DragInitModeDialog$3.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DragInitModeDialog$DragOkListener.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\DragInitModeDialog.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\EnablesDialog$1.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\EnablesDialog$2.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\EnablesDialog$3.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\EnablesDialog$EnabledOkListener.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\EnablesDialog.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\Launcher$MyAdapter.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\Launcher.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\MultipleChoiceListView$1.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\MultipleChoiceListView$2.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\MultipleChoiceListView.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\R$array.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\R$attr.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\R$color.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\R$dimen.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\R$drawable.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\R$id.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\R$layout.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\R$menu.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\R$string.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\R$styleable.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\R.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\RemoveModeDialog$1.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\RemoveModeDialog$2.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\RemoveModeDialog$3.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\RemoveModeDialog$RemoveOkListener.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\RemoveModeDialog.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\Sections$SectionAdapter.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\Sections$SectionController.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\Sections.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\SingleChoiceListView$1.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\SingleChoiceListView.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\TestBedDSLV.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\WarpDSLV$1.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\WarpDSLV$2.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\WarpDSLV$3.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\demodslv\WarpDSLV.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\dslv\
+* DragSortListView\demo\bin\classes\com\mobeta\android\dslv\R$attr.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\dslv\R$id.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\dslv\R$styleable.class
+* DragSortListView\demo\bin\classes\com\mobeta\android\dslv\R.class
+* DragSortListView\demo\bin\jarlist.cache
+* DragSortListView\demo\build.gradle
+* DragSortListView\demo\build.xml
+* DragSortListView\demo\gen\
+* DragSortListView\demo\gen\com\
+* DragSortListView\demo\gen\com\mobeta\
+* DragSortListView\demo\gen\com\mobeta\android\
+* DragSortListView\demo\gen\com\mobeta\android\demodslv\
+* DragSortListView\demo\gen\com\mobeta\android\demodslv\BuildConfig.java
+* DragSortListView\demo\gen\com\mobeta\android\demodslv\R.java
+* DragSortListView\demo\gen\com\mobeta\android\dslv\
+* DragSortListView\demo\gen\com\mobeta\android\dslv\R.java
+* DragSortListView\demo\libs\
+* DragSortListView\demo\libs\android-support-v4.jar
+* DragSortListView\demo\pom.xml
+* DragSortListView\demo\proguard-project.txt
+* DragSortListView\demo\project.properties
+* DragSortListView\demo\res\
+* DragSortListView\demo\res\drawable-hdpi\
+* DragSortListView\demo\res\drawable-hdpi\delete_x.png
+* DragSortListView\demo\res\drawable-hdpi\drag.9.png
+* DragSortListView\demo\res\drawable-hdpi\dslv_launcher.png
+* DragSortListView\demo\res\drawable-ldpi\
+* DragSortListView\demo\res\drawable-ldpi\dslv_launcher.png
+* DragSortListView\demo\res\drawable-mdpi\
+* DragSortListView\demo\res\drawable-mdpi\drag.9.png
+* DragSortListView\demo\res\drawable-mdpi\dslv_launcher.png
+* DragSortListView\demo\res\drawable-xhdpi\
+* DragSortListView\demo\res\drawable-xhdpi\dslv_launcher.png
+* DragSortListView\demo\res\drawable\
+* DragSortListView\demo\res\drawable\bg_handle.xml
+* DragSortListView\demo\res\drawable\bg_handle_section1.xml
+* DragSortListView\demo\res\drawable\bg_handle_section1_selector.xml
+* DragSortListView\demo\res\drawable\bg_handle_section2.xml
+* DragSortListView\demo\res\drawable\bg_handle_section2_selector.xml
+* DragSortListView\demo\res\drawable\drag.9.png
+* DragSortListView\demo\res\drawable\section_div.xml
+* DragSortListView\demo\res\layout\
+* DragSortListView\demo\res\layout\bg_handle_main.xml
+* DragSortListView\demo\res\layout\checkable_main.xml
+* DragSortListView\demo\res\layout\cursor_main.xml
+* DragSortListView\demo\res\layout\dslv_fragment_main.xml
+* DragSortListView\demo\res\layout\header_footer.xml
+* DragSortListView\demo\res\layout\hetero_main.xml
+* DragSortListView\demo\res\layout\jazz_artist_list_item.xml
+* DragSortListView\demo\res\layout\launcher.xml
+* DragSortListView\demo\res\layout\launcher_item.xml
+* DragSortListView\demo\res\layout\list_item_bg_handle.xml
+* DragSortListView\demo\res\layout\list_item_checkable.xml
+* DragSortListView\demo\res\layout\list_item_click_remove.xml
+* DragSortListView\demo\res\layout\list_item_handle_left.xml
+* DragSortListView\demo\res\layout\list_item_handle_right.xml
+* DragSortListView\demo\res\layout\list_item_no_handle.xml
+* DragSortListView\demo\res\layout\list_item_radio.xml
+* DragSortListView\demo\res\layout\section_div.xml
+* DragSortListView\demo\res\layout\sections_main.xml
+* DragSortListView\demo\res\layout\test_bed_main.xml
+* DragSortListView\demo\res\layout\warp_main.xml
+* DragSortListView\demo\res\menu\
+* DragSortListView\demo\res\menu\mode_menu.xml
+* DragSortListView\demo\res\values\
+* DragSortListView\demo\res\values\colors.xml
+* DragSortListView\demo\res\values\dimens.xml
+* DragSortListView\demo\res\values\ids.xml
+* DragSortListView\demo\res\values\strings.xml
+* DragSortListView\demo\src\
+* DragSortListView\demo\src\com\
+* DragSortListView\demo\src\com\mobeta\
+* DragSortListView\demo\src\com\mobeta\android\
+* DragSortListView\demo\src\com\mobeta\android\demodslv\
+* DragSortListView\demo\src\com\mobeta\android\demodslv\ArbItemSizeDSLV.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\BGHandle.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\CheckableLinearLayout.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\CursorDSLV.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\DSLVFragment.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\DSLVFragmentBGHandle.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\DSLVFragmentClicks.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\DragInitModeDialog.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\EnablesDialog.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\Launcher.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\MultipleChoiceListView.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\RemoveModeDialog.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\Sections.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\SingleChoiceListView.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\TestBedDSLV.java
+* DragSortListView\demo\src\com\mobeta\android\demodslv\WarpDSLV.java
+* DragSortListView\gradle\
+* DragSortListView\gradle\wrapper\
+* DragSortListView\gradle\wrapper\gradle-wrapper.jar
+* DragSortListView\gradle\wrapper\gradle-wrapper.properties
+* DragSortListView\gradlew
+* DragSortListView\gradlew.bat
+* DragSortListView\library\
+* DragSortListView\library\.classpath
+* DragSortListView\library\.gitignore
+* DragSortListView\library\.project
+* DragSortListView\library\.settings\
+* DragSortListView\library\.settings\org.eclipse.jdt.core.prefs
+* DragSortListView\library\AndroidManifest.xml
+* DragSortListView\library\ant.properties
+* DragSortListView\library\bin\
+* DragSortListView\library\bin\AndroidManifest.xml
+* DragSortListView\library\bin\R.txt
+* DragSortListView\library\bin\classes\
+* DragSortListView\library\bin\classes\com\
+* DragSortListView\library\bin\classes\com\mobeta\
+* DragSortListView\library\bin\classes\com\mobeta\android\
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\BuildConfig.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortController$1.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortController.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortCursorAdapter.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortItemView.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortItemViewCheckable.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$1.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$2.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$AdapterWrapper$1.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$AdapterWrapper.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$DragListener.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$DragScrollProfile.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$DragScroller.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$DragSortListener.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$DragSortTracker.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$DropAnimator.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$DropListener.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$FloatViewManager.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$HeightCache.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$LiftAnimator.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$RemoveAnimator.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$RemoveListener.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView$SmoothAnimator.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\DragSortListView.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\R$attr.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\R$id.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\R$styleable.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\R.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\ResourceDragSortCursorAdapter.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\SimpleDragSortCursorAdapter$CursorToStringConverter.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\SimpleDragSortCursorAdapter$ViewBinder.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\SimpleDragSortCursorAdapter.class
+* DragSortListView\library\bin\classes\com\mobeta\android\dslv\SimpleFloatViewManager.class
+* DragSortListView\library\bin\library.jar
+* DragSortListView\library\build.gradle
+* DragSortListView\library\build.xml
+* DragSortListView\library\gen\
+* DragSortListView\library\gen\com\
+* DragSortListView\library\gen\com\mobeta\
+* DragSortListView\library\gen\com\mobeta\android\
+* DragSortListView\library\gen\com\mobeta\android\dslv\
+* DragSortListView\library\gen\com\mobeta\android\dslv\BuildConfig.java
+* DragSortListView\library\gen\com\mobeta\android\dslv\R.java
+* DragSortListView\library\libs\
+* DragSortListView\library\libs\android-support-v4.jar
+* DragSortListView\library\local.properties
+* DragSortListView\library\pom.xml
+* DragSortListView\library\proguard-project.txt
+* DragSortListView\library\project.properties
+* DragSortListView\library\res\
+* DragSortListView\library\res\values\
+* DragSortListView\library\res\values\dslv_attrs.xml
+* DragSortListView\library\src\
+* DragSortListView\library\src\com\
+* DragSortListView\library\src\com\mobeta\
+* DragSortListView\library\src\com\mobeta\android\
+* DragSortListView\library\src\com\mobeta\android\dslv\
+* DragSortListView\library\src\com\mobeta\android\dslv\DragSortController.java
+* DragSortListView\library\src\com\mobeta\android\dslv\DragSortCursorAdapter.java
+* DragSortListView\library\src\com\mobeta\android\dslv\DragSortItemView.java
+* DragSortListView\library\src\com\mobeta\android\dslv\DragSortItemViewCheckable.java
+* DragSortListView\library\src\com\mobeta\android\dslv\DragSortListView.java
+* DragSortListView\library\src\com\mobeta\android\dslv\ResourceDragSortCursorAdapter.java
+* DragSortListView\library\src\com\mobeta\android\dslv\SimpleDragSortCursorAdapter.java
+* DragSortListView\library\src\com\mobeta\android\dslv\SimpleFloatViewManager.java
+* DragSortListView\pom.xml
+* DragSortListView\settings.gradle
+* DragSortListView\tools\
+* DragSortListView\tools\demo-sign-align.sh
+* DragSortListView\tools\doc-dslv.sh
+* DragSortListView\tools\dslv.py
+* DragSortListView\tools\pkg-dslv.sh
+* README
+* ServerProxy\
+* ServerProxy\.classpath
+* ServerProxy\.git
+* ServerProxy\.gitignore
+* ServerProxy\.project
+* ServerProxy\.settings\
+* ServerProxy\.settings\org.eclipse.jdt.core.prefs
+* ServerProxy\AndroidManifest.xml
+* ServerProxy\README.md
+* ServerProxy\ServerProxy.iml
+* ServerProxy\bin\
+* ServerProxy\bin\AndroidManifest.xml
+* ServerProxy\bin\classes\
+* ServerProxy\bin\classes\github\
+* ServerProxy\bin\classes\github\daneren2005\
+* ServerProxy\bin\classes\github\daneren2005\serverproxy\
+* ServerProxy\bin\classes\github\daneren2005\serverproxy\BufferFile.class
+* ServerProxy\bin\classes\github\daneren2005\serverproxy\BufferProxy$BufferFileTask.class
+* ServerProxy\bin\classes\github\daneren2005\serverproxy\BufferProxy.class
+* ServerProxy\bin\classes\github\daneren2005\serverproxy\BuildConfig.class
+* ServerProxy\bin\classes\github\daneren2005\serverproxy\FileProxy$StreamFileTask.class
+* ServerProxy\bin\classes\github\daneren2005\serverproxy\FileProxy.class
+* ServerProxy\bin\classes\github\daneren2005\serverproxy\ServerProxy$ProxyTask.class
+* ServerProxy\bin\classes\github\daneren2005\serverproxy\ServerProxy.class
+* ServerProxy\bin\classes\github\daneren2005\serverproxy\WebProxy$StreamSiteTask.class
+* ServerProxy\bin\classes\github\daneren2005\serverproxy\WebProxy.class
+* ServerProxy\bin\serverproxy.jar
+* ServerProxy\build.gradle
+* ServerProxy\gen\
+* ServerProxy\gen\github\
+* ServerProxy\gen\github\daneren2005\
+* ServerProxy\gen\github\daneren2005\serverproxy\
+* ServerProxy\gen\github\daneren2005\serverproxy\BuildConfig.java
+* ServerProxy\gradle\
+* ServerProxy\gradle\wrapper\
+* ServerProxy\gradle\wrapper\gradle-wrapper.jar
+* ServerProxy\gradle\wrapper\gradle-wrapper.properties
+* ServerProxy\gradlew
+* ServerProxy\gradlew.bat
+* ServerProxy\project.properties
+* ServerProxy\src\
+* ServerProxy\src\github\
+* ServerProxy\src\github\daneren2005\
+* ServerProxy\src\github\daneren2005\serverproxy\
+* ServerProxy\src\github\daneren2005\serverproxy\BufferFile.java
+* ServerProxy\src\github\daneren2005\serverproxy\BufferProxy.java
+* ServerProxy\src\github\daneren2005\serverproxy\FileProxy.java
+* ServerProxy\src\github\daneren2005\serverproxy\ServerProxy.java
+* ServerProxy\src\github\daneren2005\serverproxy\WebProxy.java
+* Subsonic.iml
+* ant.properties
+* build.properties
+* build.xml
+* debug.keystore
+* default.properties
+* proguard.cfg
+* subsonic.keystore
+From library:
+* .gitignore
+* ant.properties
+* build.gradle
+* build.xml
+* pom.xml
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.+
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:19.+
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In ServerProxy:
+* AndroidManifest.xml => serverProxy\src\main\AndroidManifest.xml
+* assets\ => serverProxy\src\main\assets\
+* res\ => serverProxy\src\main\res\
+* src\ => serverProxy\src\main\java\
+In library:
+* AndroidManifest.xml => library\src\main\AndroidManifest.xml
+* assets\ => library\src\main\assets\
+* res\ => library\src\main\res\
+* src\ => library\src\main\java\
+In SubsonicFragmentActivity:
+* AndroidManifest.xml => subsonicFragmentActivity\src\main\AndroidManifest.xml
+* assets\ => subsonicFragmentActivity\src\main\assets\
+* libs\CWAC-AdapterWrapper.jar => subsonicFragmentActivity\libs\CWAC-AdapterWrapper.jar
+* libs\CWAC-EndlessAdapter.jar => subsonicFragmentActivity\libs\CWAC-EndlessAdapter.jar
+* libs\kryo-2.21-all.jar => subsonicFragmentActivity\libs\kryo-2.21-all.jar
+* res\ => subsonicFragmentActivity\src\main\res\
+* src\ => subsonicFragmentActivity\src\main\java\
+
+Missing Android Support Repository:
+-----------------------------------
+Some useful libraries, such as the Android Support Library, are
+installed from a special Maven repository, which should be installed
+via the SDK manager.
+
+It looks like this library is missing from your SDK installation at:
+null
+
+To install it, open the SDK manager, and in the Extras category,
+select "Android Support Repository". You may also want to install the
+"Google Repository" if you want to use libraries like Google Play
+Services.
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

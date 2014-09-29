@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VLille</string>
+
+
+    <string-array name="titles">
+        <item>Rechercher une station</item>
+        <item>Liste des stations</item>
+        <item>Carte des stations</item>
+    </string-array>
+
+
+    <string name="search_hint">Chercher une station par nom</string>
+    <string-array name="search_choices">
+        <item>Par nom de station</item>
+        <item>Par nombre minimum de borne libre</item>
+        <item>Par nombre minimum de vélo disponible</item>
+    </string-array>
+    <string name="nearest_station">Parmis les stations les plus près</string>
+    <string name="at_least_from">à moins de</string>
+    <string name="meter_unit">mètres</string>
+    <string name="no_result">Aucune station</string>
+    <string name="search_cancelled">La recherche a été annulée</string>
+    <string name="search_progress">Recherche en cours ...</string>
+    <string name="distance_info">(à %1$s m)</string>
+    <string name="lastupdt_info">Il y a %1$s</string>
+    <string name="marker_current_position_title">Votre position</string>
+    <string name="prompt_to_enable_gps_message">Le GPS n\'est pas activé. Vouvlez vous aller aux menu des paramètres ?</string>
+    <string name="settings_text">Paramètres</string>
+    <string name="cancel_text">Annuler</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_test">Test action</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="mapKey">AIzaSyB2qYwMwuuvqe1olf-nWsPzhP3wWkMOkrg</string>
+
+</resources>

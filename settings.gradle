@@ -1,0 +1,4 @@
+include ':app'
+include ':serverProxy'
+include ':library'
+include ':subsonicFragmentActivity'
